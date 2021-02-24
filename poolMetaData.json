@@ -2,6 +2,5 @@
 "name": "cardflow",
 "description": "Secure and basic stake pool, my contribution to ADA",
 "ticker": "CFLW",
-"homepage": "https://nooverflow.github.io",
-"verif":"89630f29f3c8dc39de42ca63918715a6"
+"homepage": "https://nooverflow.github.io"
 }
